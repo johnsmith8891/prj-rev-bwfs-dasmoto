@@ -1,0 +1,23 @@
+#header {
+  background-image: url(pattern.jpeg);
+  text-align: center;
+  font-size: 30px;
+  font-family: Helvetica;
+  color: #ECEE43;
+}
+.price{
+
+  color: blue;
+}
+#brushes{
+  background-color: #65F161;
+  color : white;
+}
+#frames{
+  background-color: #F37D53;
+  color : white;
+}
+#paint{
+  background-color: #25E1EE;
+  color : white;
+}
